@@ -1,3 +1,9 @@
 /target
 /Cargo.lock
-Secrets.toml
+.cargo/config.toml
+Dockerfile
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
